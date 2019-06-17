@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/shiwentao/Downloads/code/miniscriptexec/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/shiwentao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/shiwentao/Downloads/code/miniscriptexec/app/.externalNativeBuild/cmake/debug/armeabi --target clean"
+  ],
+  "libraries": {
+    "jerryscript-Debug-armeabi": {
+      "artifactName": "jerryscript",
+      "buildCommand": "/Users/shiwentao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/shiwentao/Downloads/code/miniscriptexec/app/.externalNativeBuild/cmake/debug/armeabi --target jerryscript",
+      "abi": "armeabi",
+      "output": "/Users/shiwentao/Downloads/code/miniscriptexec/app/build/intermediates/cmake/debug/obj/armeabi/libjerryscript.so"
+    }
+  }
+}

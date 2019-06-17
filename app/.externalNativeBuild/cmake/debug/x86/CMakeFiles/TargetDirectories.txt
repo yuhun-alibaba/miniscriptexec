@@ -1,0 +1,3 @@
+/Users/shiwentao/Downloads/code/miniscriptexec/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/shiwentao/Downloads/code/miniscriptexec/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/shiwentao/Downloads/code/miniscriptexec/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/jerryscript.dir

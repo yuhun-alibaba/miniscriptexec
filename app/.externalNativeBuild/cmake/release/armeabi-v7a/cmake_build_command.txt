@@ -1,0 +1,15 @@
+Executable : /Users/shiwentao/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/shiwentao/Downloads/code/testso/app
+-B/Users/shiwentao/Downloads/code/testso/app/.externalNativeBuild/cmake/release/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/shiwentao/Downloads/code/testso/app/build/intermediates/cmake/release/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=/Users/shiwentao/Downloads/android-ndk-r13b
+-DCMAKE_CXX_FLAGS=-std=c++14
+-DCMAKE_TOOLCHAIN_FILE=/Users/shiwentao/Downloads/android-ndk-r13b/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/shiwentao/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

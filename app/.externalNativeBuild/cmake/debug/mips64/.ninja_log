@@ -1,0 +1,21 @@
+# ninja log v5
+2	228	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/asin.c.o	3f16ad9ab571fe7d
+2	234	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/acos.c.o	78ce6628c78508a6
+2	236	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/atan.c.o	ebbc4d1f246bf4c6
+3	236	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/atan2.c.o	ea3da8eb1f3ddaf8
+3	236	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/ceil.c.o	8edf2f397f189272
+3	237	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/copysign.c.o	73104612487de6b7
+4	237	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/exp.c.o	63d2290971be9bf3
+4	238	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/fabs.c.o	b923ffd8058b5f9d
+4	238	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/finite.c.o	53ae49711f1c4d21
+5	238	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/floor.c.o	39296790c745f755
+5	238	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/fmod.c.o	90716797bf591357
+6	239	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/isnan.c.o	af8cdb7d1005adc2
+7	239	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/log.c.o	fe977e3515aef10d
+237	338	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/trig.c.o	7954886226b9b1ae
+236	339	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/scalbn.c.o	c78753d9877f0bcb
+228	353	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/nextafter.c.o	2b353ee8139cc44a
+236	353	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/sqrt.c.o	f2480bb616f7a967
+235	354	0	CMakeFiles/native-lib.dir/src/main/cpp/jerry-libm/pow.c.o	fbeebfa478effa47
+1	376	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	a5c117e9a153b4b0
+376	517	0	../../../../build/intermediates/cmake/debug/obj/mips64/libnative-lib.so	60f799eab01b4d21

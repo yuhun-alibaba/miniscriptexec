@@ -1,0 +1,25 @@
+-- ENABLE_ALL_IN_ONE           OFF
+-- FEATURE_CPOINTER_32_BIT     OFF
+-- FEATURE_DEBUGGER            OFF
+-- FEATURE_ERROR_MESSAGES      OFF
+-- FEATURE_EXTERNAL_CONTEXT    OFF
+-- FEATURE_JS_PARSER           ON
+-- FEATURE_LINE_INFO           OFF
+-- FEATURE_LOGGING             OFF
+-- FEATURE_MEM_STATS           OFF
+-- FEATURE_MEM_STRESS_TEST     OFF
+-- FEATURE_PARSER_DUMP         OFF
+-- FEATURE_PROFILE             es5.1
+-- FEATURE_REGEXP_STRICT_MODE  OFF
+-- FEATURE_REGEXP_DUMP         OFF
+-- FEATURE_SNAPSHOT_EXEC       OFF
+-- FEATURE_SNAPSHOT_SAVE       OFF
+-- FEATURE_SYSTEM_ALLOCATOR    OFF
+-- FEATURE_VALGRIND            OFF
+-- FEATURE_VM_EXEC_STOP        OFF
+-- MEM_HEAP_SIZE_KB            512
+-- REGEXP_RECURSION_LIMIT      0
+-- VM_RECURSION_LIMIT          0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/shiwentao/Downloads/code/testso/app/.externalNativeBuild/cmake/release/x86
