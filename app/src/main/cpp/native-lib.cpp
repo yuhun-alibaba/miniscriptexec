@@ -32,7 +32,7 @@ register_js_function (const char *name_p, /**< name of the function */
  * Jerryscript simple test
  */
 int test_jerry(){
-  const jerry_char_t script[] = "print ('Hello, World!');var a = 7; var b = 5; print(a+b);";
+  const jerry_char_t script[] = "var test=0; for (t=1; t<1000; t++) test+=t; print ('Hi JS World! '+test);";
 
   /* Initialize engine */
   jerry_init (JERRY_INIT_EMPTY);
